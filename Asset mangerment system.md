@@ -1,9 +1,3 @@
-Create for me a workflow file for a system to manage assets use NestJS and TypeORM following the requirements below strictly.
-
-The fist part of workflow file is describes project in detail to easy to understand, the second part is requirements and the third part is database design.
-
-Implement featues in NestJS and TypeORM in this root folder, the Nestjs and TypeORM is already installed in this project.
-
 # Asset mangerment system
 
 ## VOCABULARY
